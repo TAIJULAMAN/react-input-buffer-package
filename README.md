@@ -574,14 +574,6 @@ MIT © 2026
 
 ---
 
-## 📞 Support
-
-- 📖 [Documentation](https://github.com/TAIJULAMAN/react-input-buffer#readme)
-- 🐛 [Issue Tracker](https://github.com/TAIJULAMAN/react-input-buffer/issues)
-- 💬 [Discussions](https://github.com/TAIJULAMAN/react-input-buffer/discussions)
-
----
-
 **Built for 2026's 8,000Hz standard** 🚀
 
 *Stop the Main Thread DDoS. Start building performant web apps.*
