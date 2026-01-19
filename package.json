@@ -30,7 +30,7 @@
     "fps",
     "inp"
   ],
-  "author": "",
+  "author": "Taijul Aman <taijul-aman>",
   "license": "MIT",
   "peerDependencies": {
     "react": "^19.0.0",
@@ -58,10 +58,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/react-input-buffer.git"
+    "url": "https://github.com/TAIJULAMAN/react-input-buffer-package.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/react-input-buffer/issues"
+    "url": "https://github.com/TAIJULAMAN/react-input-buffer-package/issues"
   },
-  "homepage": "https://github.com/yourusername/react-input-buffer#readme"
+  "homepage": "https://github.com/TAIJULAMAN/react-input-buffer-package#readme"
 }
