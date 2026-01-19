@@ -576,9 +576,9 @@ MIT © 2026
 
 ## 📞 Support
 
-- 📖 [Documentation](https://github.com/yourusername/react-input-buffer#readme)
-- 🐛 [Issue Tracker](https://github.com/yourusername/react-input-buffer/issues)
-- 💬 [Discussions](https://github.com/yourusername/react-input-buffer/discussions)
+- 📖 [Documentation](https://github.com/TAIJULAMAN/react-input-buffer#readme)
+- 🐛 [Issue Tracker](https://github.com/TAIJULAMAN/react-input-buffer/issues)
+- 💬 [Discussions](https://github.com/TAIJULAMAN/react-input-buffer/discussions)
 
 ---
 
